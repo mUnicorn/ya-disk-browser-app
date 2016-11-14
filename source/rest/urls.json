@@ -1,0 +1,4 @@
+{
+    "yandexOAuth": "https://oauth.yandex.ru/authorize?response_type=token&client_id=c39a2f63f8754d85a2ce9741dca5d851",
+    "resources": "https://cloud-api.yandex.net/v1/disk/resources"
+}
